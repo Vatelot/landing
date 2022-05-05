@@ -1,0 +1,36 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Poppins:wght@700');
+@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@500&family=Montserrat:wght@300;500&display=swap');
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+@import url("components/cards.css");
+@import url("components/banner.css");
+@import url("components/logo.css");
+@import url("components/buttons.css");
+@import url("components/title.css");
+@import url("components/footer.css");
+/* Utilities */
+body {
+  margin: 0;
+  font-family: 'Cabin', sans-serif;
+  color: white;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1px;
+}
+
+a {
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+  text-align: left;
+  margin-top: 250px;
+  margin-left: 20px;
+  opacity: 1;
+}
+
+/* Custom design below! */

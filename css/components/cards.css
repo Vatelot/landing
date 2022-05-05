@@ -1,0 +1,19 @@
+.hiw-cards {
+  display: flex;
+  justify-content:space-around;
+  align-items: baseline;
+}
+
+.card {
+  width: 250px;
+  margin: 10px;
+  color: black;
+  border-radius: 10px;
+  box-shadow: 0 0 5px rgb(230 230 230);
+  padding: 10px;
+  text-align: center;
+}
+
+.card img {
+  width: 100%;
+}
